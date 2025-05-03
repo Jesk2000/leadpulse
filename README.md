@@ -3,8 +3,6 @@ Leadpulse ladies and gentlemen!
 
 [LEADPULSE • EXPLORE MODULE • OSS‑ONLY SCRAPERS]
 
-Cursor AI, build an MVP Explore engine that relies **entirely on open‑source GitHub libraries** for data collection (until we can afford official APIs). Also embed cost commentary for when we upgrade.
-
 ────────────────────────────────────────────────────────────
 1. SOURCES & LIBRARIES (to import or vendor)
 ────────────────────────────────────────────────────────────
